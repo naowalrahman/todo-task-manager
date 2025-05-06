@@ -1,6 +1,6 @@
 # Todo List/Task Manager App
 
-A simple to-do list/task manager application built with React, TypeScript, and Material UI. This app allows users to add tasks, mark them as complete, and delete them.
+A simple to-do list/task manager application built with React, TypeScript, and Material UI. This app allows users to add tasks, mark them as complete, and delete them. The app can be viewed online [here](https://naowalrahman.rocks/todo-task-manager).
 
 ## Features
 
