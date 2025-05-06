@@ -1,4 +1,0 @@
-/* Smooth background color transition for all components */
-body {
-  transition: background-color 0.5s ease;
-}
